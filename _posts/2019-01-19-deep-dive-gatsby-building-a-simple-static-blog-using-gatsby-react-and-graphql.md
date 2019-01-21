@@ -2,7 +2,17 @@
 ID: 895
 post_title: 'Deep dive into Gatsby &#8211; Building a static blog using Gatsby, React and GraphQL'
 author: haxzie
-post_excerpt: ""
+post_excerpt: >
+  Gatsby.js is one of the most exciting
+  technologies happened in this decade.
+  Building lightning fast websites have
+  never been easier before. Gatsby
+  combines the flexibility of React and
+  benefits of GraphQL to build static
+  websites. Not to confuse with what
+  Gatsby does, the description provided in
+  the website gives a clear idea on what
+  Gatsby is.
 layout: post
 permalink: >
   https://zocada.com/deep-dive-gatsby-building-a-simple-static-blog-using-gatsby-react-and-graphql/
