@@ -77,7 +77,7 @@ ctx.drawImage(img, 0, 0, width, img.height * scaleFactor);</pre>
 <p>Here we kept <code>width</code> as constant and calculated the scaling factor. To find the relative height just multiply the scaling factor to the original height.</p>
 <h2 style="text-align: center;">For browsers that don't support "toBlob" method</h2>
 <p>Use this polyfill <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toBlob">"https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toBlob" </a>.</p>
-<p>Modify the toBlob parameters as shown otherwise you will get "function expected error".</p>
+<p>Modify the toBlob parameters as shown otherwise you will get "function expected" error.</p>
 <pre class="EnlighterJSRAW" data-enlighter-language="js">//toBlob polyfill
 if (!HTMLCanvasElement.prototype.toBlob) {
   Object.defineProperty(HTMLCanvasElement.prototype, 'toBlob', {
