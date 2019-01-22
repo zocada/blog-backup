@@ -286,3 +286,7 @@ Play around with the code and try new shapes and colors and what not.
 You can find the code <a href="https://github.com/rumaan/custom_shapes_flutter">here</a> in this GitHub repo.
 
 🤤
+
+<hr />
+
+<em>Also published on <a href="https://medium.com/@rumaankalander/drawing-custom-shapes-in-flutter-using-custompainter-47be782b697">Medium</a>.</em>
