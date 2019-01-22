@@ -82,7 +82,7 @@ CustomPaint widget requires mainly two things, a <em>painter</em> and a <em>chil
             child: Container(height: 700,),
           ),
        ),</pre>
-<em>ShapesPainter</em> is an instance of a class that extends <em>CustomPainter. </em>The <em>CustomPainter </em>class provides us with 2 methods to override.
+Here,<em> ShapesPainter()</em> is an instance of a class that extends <em>CustomPainter. </em>The <em>CustomPainter </em>class provides us with 2 methods to override.
 <pre class="EnlighterJSRAW" data-enlighter-language="java">class ShapesPainter extends CustomPainter {
   @override
   void paint(Canvas canvas, Size size) {
