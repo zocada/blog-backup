@@ -194,7 +194,7 @@ To do this we'll have to use a <a href="https://docs.flutter.io/flutter/dart-ui/
 
 &nbsp;
 
-We can use the lineTo() method to create a line from (x,y) to (x1, y1). Here it would be from (0,0) which is initialised by default, to (0, size.height) which is the bottom-left of the canvas. Finally we use close() to close the path which will forms a triangle.
+We can use the lineTo() method to create a line from (x,y) to (x1, y1). Here it would be from (0,0) which is initialised by default, to (0, size.height) which is the bottom-left of the canvas. Finally we use close() to close the path which will form a triangle.
 <pre class="EnlighterJSRAW" data-enlighter-language="java">paint.color = Colors.yellow;
 
 // create a path
