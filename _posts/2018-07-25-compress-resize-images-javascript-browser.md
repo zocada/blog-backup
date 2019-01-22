@@ -98,7 +98,7 @@ if (!HTMLCanvasElement.prototype.toBlob) {
 
 // toBlob usage
 ctx.canvas.toBlob(function (blob) {
- console.log(blob);
+ console.log(blob); //access blob here
  }, mimeType, quality);
 </pre>
 <p>&nbsp;</p>
