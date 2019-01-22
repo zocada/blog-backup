@@ -131,7 +131,7 @@ Let's create a simple paint object which has a color of Colors.deepOrange and dr
 The <em>shouldRepaint</em> method here just returns <em>false </em>since we don't have any fields/values that might change and influence the custom shapes that we draw.
 
 Now let's draw a simple white rectangle which spans to the entire width and height of the canvas. We can use the <em>canvas.drawRect(..)</em> method to do so. The <em>drawRect()</em> method takes <a href="https://docs.flutter.io/flutter/dart-ui/Rect-class.html">Rect</a> object and a <em>paint</em>. We can create an instance of Rect object in various ways. We'll use <em><a href="https://docs.flutter.io/flutter/dart-ui/Rect/Rect.fromLTWH.html">Rect.fromLTWH()</a>, </em>where LTWH stands for Left, Top, Width and Height which means the initial (x,y) point that we start from or the left-topmost point of the rectangle and the width and height of the rectangle that would be added to left and top points which forms the required rectangle.
-<pre class="EnlighterJSRAW" data-enlighter-language="java" data-enlighter-highlight="14,21">@override
+<pre class="EnlighterJSRAW" data-enlighter-language="java">@override
   void paint(Canvas canvas, Size size) {
     final paint = Paint();
 
