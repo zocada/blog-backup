@@ -128,6 +128,19 @@ Let's create a simple paint object which has a color of Colors.deepOrange and dr
 
 <em>canvas.drawCircle(...)</em> method takes in three parameters, the centre of the circle, the radius and the paint object to be used. Here, we draw the circle at the centre of the canvas. We find the centre using <em>size.width</em> and <em>size.height</em> from the Size object which returns the width and height of the canvas.
 
+<!-- AD -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7556700931518738"
+     data-ad-slot="2974167105"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 The <em>shouldRepaint</em> method here just returns <em>false </em>since we don't have any fields/values that might change and influence the custom shapes that we draw.
 
 Now let's draw a simple white rectangle which spans to the entire width and height of the canvas. We can use the <em>canvas.drawRect(..)</em> method to do so. The <em>drawRect()</em> method takes <a href="https://docs.flutter.io/flutter/dart-ui/Rect-class.html">Rect</a> object and a <em>paint</em>. We can create an instance of Rect object in various ways. We'll use <em><a href="https://docs.flutter.io/flutter/dart-ui/Rect/Rect.fromLTWH.html">Rect.fromLTWH()</a>, </em>where LTWH stands for Left, Top, Width and Height which means the initial (x,y) point that we start from or the left-topmost point of the rectangle and the width and height of the rectangle that would be added to left and top points which forms the required rectangle.
@@ -290,3 +303,15 @@ You can find the code <a href="https://github.com/rumaan/custom_shapes_flutter"
 <hr />
 
 <em>Also published on <a href="https://medium.com/@rumaankalander/drawing-custom-shapes-in-flutter-using-custompainter-47be782b697">Medium</a>.</em>
+
+<!-- AD -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7556700931518738"
+     data-ad-slot="2974167105"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
