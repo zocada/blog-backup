@@ -4,7 +4,7 @@ post_title: >
   Using Shared Preferences to save data
   locally in Android
 author: haxzie
-post_excerpt: ""
+post_excerpt: "Persistent storage of data is necessary for almost all android application. From saving tiny bits of data to recognize the user to settings and preferences within the app. Android provides a consistent way of storing simple data in the internal storage privately for each application. In this article, we'll look into how to store and retrieve data in android using SharedPreferences. SharedPrefs are intended to save Key-Value pairs in storage and Android doesn't recommend saving confidential information in shared preferences without proper security. We'll also look into a library which will help us to encrypt the data while saving locally."
 layout: post
 permalink: >
   https://zocada.com/using-shared-preferences-to-save-data-locally-in-android/
