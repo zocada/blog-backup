@@ -2,7 +2,7 @@
 ID: 1075
 post_title: 'Deploying Node.js application to DigitalOcean &#8211; Setting up the server'
 author: haxzie
-post_excerpt: ""
+post_excerpt: "DigitalOcean with no doubt has made cloud easier and much accessible to people with any skill level. The simple interface and outstanding customer support make DigitalOcean favorite for hobbyist developers and large enterprises. In this post, I'll try to cover the basic things in brief to help you get familiar with Digital Ocean and creating your first droplet."
 layout: post
 permalink: >
   https://zocada.com/deploying-node-js-application-digitalocean-setting-server/
