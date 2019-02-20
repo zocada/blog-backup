@@ -5,7 +5,7 @@ author: haxzie
 post_excerpt: ""
 layout: post
 permalink: >
-  https://zocada.com/deploying-node-js-application-to-digitalocean-setting-up-the-server/
+  https://zocada.com/deploying-node-js-application-digitalocean-setting-server/
 published: true
 post_date: 2019-02-20 06:09:49
 ---
@@ -17,8 +17,15 @@ In this post, I'll try to cover the following things in brief.
  	<li>Setting up SSH and connecting to your server from your local machine</li>
  	<li>Setting up a simple Express.js web-server in local machine</li>
  	<li>Using Git to deploy your code to server</li>
- 	<li>Installing Node.js and PM2 on the server</li>
- 	<li>Assigning a domain name for the server</li>
+ 	<li>Installing Node.js and NPM on the server</li>
+        <li>Deploying a simple Hello world app</li>
+</ul>
+In the upcoming posts, we'll cover
+<ul>
+        <li>Attaching a domain name to the server</li>
+        <li>Setting Up NGINX</li>
+        <li>Using PM2 for your node application in Production</li>
+        <li>Reverse proxying using NGINX</li>
 </ul>
 <h2>Step 1. Creating a <a href="https://m.do.co/c/28bb5c20041a" target="_blank" rel="noopener">DigitalOcean</a> account with free credits</h2>
 [caption id="attachment_1086" align="aligncenter" width="1354"]<a href="https://m.do.co/c/28bb5c20041a"><img class="size-full wp-image-1086" src="https://zocada.com/wp-content/uploads/2019/02/Screenshot_2019-02-13-DigitalOcean-Cloud-Computing-Simplicity-at-Scale.png" alt="DigitalOcean" width="1354" height="767" /></a> DigitalOcean[/caption]
