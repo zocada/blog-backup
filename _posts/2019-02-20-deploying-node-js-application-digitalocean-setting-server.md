@@ -122,7 +122,7 @@ Let's run the app
 $ node index.js</pre>
 &nbsp;
 
-Now you should be able to check the output of the node web app we ran from a browser by navigating to: <strong>http://YOUR-SERVER'S-FLOATING-IP:3000</strong>, example <strong>http://192.168.1.1:3000</strong> and you will be able to see the HelloWorld message.
+Now you should be able to check the output of the node web app we ran from a browser by navigating to: <code>http://YOUR-SERVER'S-FLOATING-IP:3000</code>, example <code>http://192.168.1.1:3000</code> and you will be able to see the HelloWorld message.
 
 <h2>Wrapping up</h2>
 In the upcoming post, we'll discuss how to attach a domain to your server, setup Nginx for reverse proxy and PM2 for running the node applications in production.
