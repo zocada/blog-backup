@@ -65,7 +65,8 @@ elem.height = height;</pre>
 </script></p>
 <h4>The final code</h4>
 </blockquote>
-<p><script src="https://gist.github.com/chaman-k/a64fcd49c9e1c0b6a41074fdecf0e5d0.js"></script></p>
+<script src="https://gist.github.com/chaman-k/de8566f1f05662fa35f6a56bd728e5b6.js"></script>
+<p>&nbsp;</p>
 <h3>Note:</h3>
 <p>If you want to maintain the aspect ratio of the output image then you can set either the width or height as constant and calculate the other dimension.</p>
 <pre class="EnlighterJSRAW" data-enlighter-language="js">const width = 600;
