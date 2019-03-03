@@ -64,8 +64,7 @@ elem.height = height;</pre>
      (adsbygoogle = window.adsbygoogle || []).push({});<br />
 </script></p>
 <h4>The final code</h4>
-</blockquote>
-<script src="https://gist.github.com/chaman-k/de8566f1f05662fa35f6a56bd728e5b6.js"></script>
+<p></blockquote><script src="https://gist.github.com/chaman-k/de8566f1f05662fa35f6a56bd728e5b6.js"></script></p>
 <p>&nbsp;</p>
 <h3>Note:</h3>
 <p>If you want to maintain the aspect ratio of the output image then you can set either the width or height as constant and calculate the other dimension.</p>
@@ -104,7 +103,7 @@ ctx.canvas.toBlob(function (blob) {
 </pre>
 <p>&nbsp;</p>
 <h2 style="text-align: center;">For Angular using RxJS</h2>
-<p><script src="https://gist.github.com/chaman-k/f5b1a4a4779e8ffd20995727f0c9a640.js"></script></p>
+<p><script src="https://gist.github.com/chaman-k/52a45aa9fb0105a6a089e9186f93cc7e.js"></script></p>
 <p><ins class="adsbygoogle" style="display: block; text-align: center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7556700931518738" data-ad-slot="5584852720"></ins><br /><script><br />
      (adsbygoogle = window.adsbygoogle || []).push({});<br />
 </script></p>
