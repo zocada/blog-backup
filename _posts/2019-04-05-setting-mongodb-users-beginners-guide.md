@@ -7,7 +7,7 @@ layout: post
 permalink: >
   https://zocada.com/setting-mongodb-users-beginners-guide/
 published: true
-post_date: 2018-03-17 13:22:01
+post_date: 2019-04-05 13:22:01
 ---
 Setting up the <strong><a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">MongoDB</a> </strong>client we installed on our system is really an easy task. Hope you have a fresh install ready for your system, or please follow our <a href="https://zocada.com/installing-mongo-db-community-edition-ubuntu-linux-server-desktop/" target="_blank" rel="noopener noreferrer">instructions on installing <strong>MongoDB</strong></a>. As we know MongoDB is a powerful NoSQL document-oriented database program. It is designed for high volume data storage and management. So, we'll start off our setup process by starting up the <code>mongod</code> in a separate terminal.
 
