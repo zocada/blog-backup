@@ -182,3 +182,10 @@ Let's include these javascript functions inside a script tag inside the HTML fil
 &nbsp;
 <h2>Result? Welcome to the Dark Side!</h2>
 <img src="https://zocada.com/wp-content/uploads/2019/09/theme-switcher.gif" alt="" width="900" height="429" class="aligncenter size-full wp-image-1179" />
+<p>Adding some CSS styling to it, we get our final outcome :)</p>
+<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="result" data-user="haxzie" data-slug-hash="xxKNEGM" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="xxKNEGM">
+  <span>See the Pen <a href="https://codepen.io/haxzie/pen/xxKNEGM">
+  xxKNEGM</a> by Musthaq Ahamad (<a href="https://codepen.io/haxzie">@haxzie</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
