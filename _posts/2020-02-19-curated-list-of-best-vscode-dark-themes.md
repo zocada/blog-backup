@@ -7,7 +7,7 @@ layout: post
 permalink: >
   https://zocada.com/curated-list-of-best-vscode-dark-themes/
 published: true
-post_date: 2019-01-05 19:24:12
+post_date: 2020-02-19 19:24:12
 ---
 <!-- wp:paragraph -->
 <p>Visual Studio Code has won the hearts of many developers in recent years. Ease of use, customization and light weight makes it everyone's editor of choice. Let's take a look at some of the best VSCode themes available in the market which is being used by some of the famous devs from the community.</p>
@@ -18,7 +18,23 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>1. Night Owl</h2>
+<h2>1. Overnight</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":822} -->
+<figure class="wp-block-image"><img src="https://zocada.com/wp-content/uploads/2019/01/Screenshot-from-2020-02-20-22-04-49.png" alt="" class="aligncenter size-full wp-image-1220"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>ext install cev.overnight</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:paragraph -->
+<p>Links: <a href="https://github.com/cevr/overnight">GitHub</a> | <a href="https://marketplace.visualstudio.com/items?itemName=cev.overnight">MarketPlace</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>2. Night Owl</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":822} -->
@@ -30,11 +46,11 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:code -->
 
 <!-- wp:paragraph -->
-<p>Links: <a href="https://github.com/sdras/night-owl-vscode-theme">GitHub</a> | <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&amp;WT.mc_id=twitter-social-sdras">MarketPlace</a></p>
+<p>Links: <a href="https://github.com/sdras/night-owl-vscode-theme">GitHub</a> | <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">MarketPlace</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>2. Ariake Dark</h2>
+<h2>3. Ariake Dark</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":828} -->
@@ -56,7 +72,7 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:html -->
 
 <!-- wp:heading -->
-<h2>3. One Dark Pro</h2>
+<h2>4. One Dark Pro</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":825} -->
@@ -88,7 +104,7 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>4. Nord</h2>
+<h2>5. Nord</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":826} -->
@@ -110,7 +126,7 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:html -->
 
 <!-- wp:heading -->
-<h2>5. Dracula Official</h2>
+<h2>6. Dracula Official</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":827} -->
@@ -126,7 +142,7 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>6. Pitch Black</h2>
+<h2>7. Pitch Black</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":824} -->
@@ -142,7 +158,7 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>7. City Lights</h2>
+<h2>8. City Lights</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":829} -->
@@ -164,7 +180,7 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>8. Cobalt Next</h2>
+<h2>9. Cobalt Next</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":831} -->
@@ -180,7 +196,7 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>9. Cobalt2</h2>
+<h2>10. Cobalt2</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":853} -->
@@ -196,7 +212,7 @@ post_date: 2019-01-05 19:24:12
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>10. Material Theme</h2>
+<h2>11. Material Theme</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":835} -->
